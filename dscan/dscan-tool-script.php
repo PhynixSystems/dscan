@@ -88,6 +88,7 @@
       // Delimit input by blank space, and unset the first element (date)
       // - "Blank Space" isn't a space bar character, but a tab-like character
       $pieces = explode("	", $str);
+      $numPieces  = count($pieces);
       
       //  - Name / Item / Distance - directly pulled from dscan
       // - Category is broad classification (Ship, Deployable, etc.)
@@ -100,12 +101,12 @@
 //       $iItem      = $pieces[1];
 //       $iDistance  = $pieces[2];  
 			
-			// Count from end of array to prevent false positives from cleverly crafted ship names
-			// - replaces code above
-			$numPieces  = count($pieces);
-			$iDistance  = $pieces [$numPieces - 1];
-			$iItem			= $pieces [$numPieces - 2];
-			$iName			= $pieces [$numPieces - 3];
+	// Count from end of array to prevent false positives from cleverly crafted ship names
+	// - replaces code above
+      $iDistance  = $numPieces >= 1 ? $pieces [$numPieces - 1] : "Invalid Input - No Distance"; 
+      $iItem      = $numPieces >= 2 ? $pieces [$numPieces - 2] : "Invalid Input - No Item"; 
+      $iName      = $numPieces >= 3 ? $pieces [$numPieces - 3] : "Invalid Input - No Name"; 
+      // There's also an ID index at the start (it's the Item ID in game, nto a unqiue one per item in the dscan, so two Absolutions will have the same ID
 			
       
       // Loop over array until a match is found
