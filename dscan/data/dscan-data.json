@@ -1,0 +1,587 @@
+{
+  "Ships": {
+    "Capsule": [
+      "Capsule",
+      "Capsule - Genolution 'Auroral' 197-variant"
+    ],
+    "Corvette": [
+      "Velator", 
+      "Reaper", 
+      "Ibis", 
+      "Impariror"
+    ],
+    "Faction Corvette": [
+      "Echo", 
+      "Hematos", 
+      "Immolator", 
+      "Taipan", 
+      "Violator",
+      "Apotheosis"
+    ],
+    "Shuttle": [
+      "Amarr Shuttle", 
+      "Caldari Shuttle", 
+      "Gallente Shuttle", 
+      "Minmatar Shuttle"
+    ],
+    "Faction Shuttle": [
+      "Goru's Shuttle", 
+      "Guristas Shuttle", 
+      "Leopard"
+    ],
+    "Exhumer": [
+      "Hulk",
+      "Mackinaw",
+      "Mackinaw ORE Development Edition",
+      "Skiff"
+    ],
+    "Industrial": [
+      "Badger", 
+      "Bestower",
+      "Epithal",
+      "Hoarder",
+      "Iteron Mark V",
+      "Kryos",
+      "Mammoth",
+      "Miasmos",
+      "Nereus",
+      "Sigil",
+      "Tayra",
+      "Wreate"
+    ],
+    "Deep Space Transport": [
+      "Bustard",
+      "Impel",
+      "Mastodon",
+      "Occator"
+    ],
+    "Blockade Runner": [
+      "Prorator",
+      "Crane",
+      "Prowler",
+      "Viator"
+    ],
+    "Industrial Command Ship": [
+      "Noctis",
+      "Primae",
+      "Porpoise"
+    ],
+    "Mining Barge": [
+      "Covetor",
+      "Procurer",
+      "Retriever"
+    ],
+    "Capital Industrial Ship": [
+      "Bowhead", 
+      "Orca", 
+      "Orca ORE Development Edition",
+      "Rorqual", 
+      "Rorqual ORE Development Edition"
+    ],
+    "Special Edition Industrial": [
+      "Miasmos Amastris Edition",
+      "Miasmos Quafe Ultra Edition",
+      "Miasmos Quafe Ultramarine Edition",
+      "Bestower Tash-Murkon Edition",
+      "Tayra Wiyrkomi Edition",
+      "Iteron Inner Zone Shipping Edition",
+      "Mammoth Nefantar Edition"
+    ],
+    "Frigate": [
+      "Atron",
+      "Bantam",
+      "Breacher",
+      "Burst",
+      "Condor",
+      "Crucifier",
+      "Executioner",
+      "Griffin",
+      "Heron",
+      "Imicus",
+      "Incursus",
+      "Inquisitor",
+      "Kestrel",
+      "Magnate",
+      "Maulus",
+      "Merlin",
+      "Navitas",
+      "Probe",
+      "Punisher",
+      "Rifter",
+      "Slasher",
+      "Tormentor",
+      "Tristan",
+      "Vigil",
+      "Venture"
+    ],
+    "Faction Frigate": [
+      "Caldari Navy Hookbill",
+      "Crucifier Navy Issue",
+      "Federation Navy Comet",
+      "Griffin Navy Issue",
+      "Imperial Navy Slicer",
+      "Maulus Navy Issue",
+      "Republic Fleet Firetail",
+      "Vigil Fleet Issue",
+      "Sunesis"
+    ],
+    "Pirate Frigate": [
+      "Astero",
+      "Cruor",
+      "Daredevil",
+      "Dramiel",
+      "Garmur",
+      "Succubus",
+      "Worm"
+    ],
+    "Precursor Frigate": [
+      "Damavik"
+    ],
+    "Assault Frigate": [
+      "Enyo",
+      "Harpy",
+      "Hawk",
+      "Ishkur",
+      "Jaguar",
+      "Retribution",
+      "Vengeance",
+      "Wolf"
+    ],
+    "Stealth Bomber": [
+      "Hound", 
+      "Manticore", 
+      "Nemesis", 
+      "Purifier"
+    ],
+    "Covert Ops Frigate": [
+      "Anathema", 
+      "Buzzard", 
+      "Cheetah", 
+      "Helios", 
+      "Pacifier"
+    ],
+    "Electronic Attack Frigate": [
+      "Hyena", 
+      "Keres", 
+      "Kitsune", 
+      "Sentinel"
+    ],
+    "Interceptor": [
+      "Ares", 
+      "Claw", 
+      "Crow", 
+      "Crusader", 
+      "Malediction", 
+      "Raptor", 
+      "Stiletto", 
+      "Taranis"
+    ],
+    "Logistics Frigate": [
+      "Deacon", 
+      "Kirin", 
+      "Scalpel", 
+      "Thalia"
+    ],
+    "Expedition Frigate": [
+      "Endurance",
+      "Prospect"
+    ],
+    "Special Edition Frigate": [
+      "Echelon", 
+      "Gold Magnate", 
+      "Silver Magnate", 
+      "Inner Zone Shipping Imicus", 
+      "Sarum Magnate", 
+      "Sukuuvestaa Heron", 
+      "Tash-Murkon Magnate", 
+      "Vherokior Probe",
+      "Zephyr"
+    ],
+    "Alliance Tournament Frigate": [
+      "Cambion", 
+      "Chremoas", 
+      "Caedes", 
+      "Freki", 
+      "Malice", 
+      "Utu", 
+      "Whiptail", 
+      "Imp"
+    ],
+    "Destroyer": [
+      "Algos",
+      "Catalyst",
+      "Coercer",
+      "Corax",
+      "Cormorant",
+      "Dragoon",
+      "Talwar",
+      "Thrasher"
+    ],
+    "Command Destroyer": [
+      "Bifrost", 
+      "Magus", 
+      "Pontifex", 
+      "Stork"
+    ],
+    "Interdictor": [
+      "Eris",
+      "Flycatcher", 
+      "Heretic", 
+      "Sabre"
+    ],
+    "Tactical Destroyer": [
+      "Confessor", 
+      "Hecatre", 
+      "Jackdaw", 
+      "Svipul"
+    ],
+    "Precursor Destroyer": [
+		"Kikimora"
+	],
+    "Special Edition Destroyer": [
+      "Aliastra Catalyst",
+      "Inner Zone Shipping Catalyst",
+      "Intaki Syndicate Catalyst",
+      "InterBus Catalyst",
+      "Nefantar Catalyst",
+      "Quafe Catalyst",
+      "Coercer Blood Raiders Edition",
+      "Cormorant Guristas Edition",
+      "Catalyst Serpentis Edition",
+      "Thrasher Thukker Tribe Edition"
+    ],
+    "Cruiser": [
+      "Arbitrator",
+      "Auguror",
+      "Bellicose",
+      "Blackbird",
+      "Caracal",
+      "Celestis",
+      "Exequror",
+      "Maller",
+      "Moa",
+      "Omen",
+      "Osprey",
+      "Rupture",
+      "Scythe",
+      "Stabber",
+      "Thorax",
+      "Vexor"
+    ],
+    "Faction Cruiser": [
+      "Auguror Navy Issue",
+      "Caracal Navy Issue",
+      "Exequror Navy Issue",
+      "Omen Navy Issue",
+      "Osprey Navy Issue",
+      "Scythe Navy Issue",
+      "Stabber Navy Issue",
+      "Vexor Navy Issue"
+    ],
+    "Pirate Cruiser": [
+      "Ashimmu",
+      "Cynabal",
+      "Gila",
+      "Orthrus",
+      "Phantasm",
+      "Stratios",
+      "Vigilant"
+    ],
+    "Precursor Cruiser": [
+      "Vedmak"
+    ],
+    "Flag Cruiser": [
+      "Monitor"
+    ],
+    "Heavy Assault Cruiser": [
+      "Cerbeus",
+      "Deimos",
+      "Eagle",
+      "Ishtar",
+      "Muninn",
+      "Sacrilege",
+      "Vagabond",
+      "Zealot"
+    ],
+    "Heavy Interdiction Cruiser": [
+      "Broadsword",
+      "Devote",
+      "Onyx",
+      "Phobos"
+    ],
+    "Logistics Cruisers": [
+      "Basilisk",
+      "Guardian",
+      "Oneiros",
+      "Scimitar"
+    ],
+    "Recon Ships": [
+      "Arazu",
+      "Curse",
+      "Falcon",
+      "Huginn",
+      "Lachesis",
+      "Pilgrim",
+      "Rapier",
+      "Rook",
+      "Enforcer"
+    ],
+    "Strategic Cruiser": [
+      "Legion",
+      "Loki",
+      "Proteus",
+      "Tengu"
+    ],
+    "Special Edition Cruiser": [
+      "Guardian-Vexor",
+      "Victorieux Luxury Yacht",
+      "Omen Kador Edition",
+      "Omen Tash-Murkon Edition",
+      "Caracal Nugoeihuvi Edition",
+      "Caracal Wiyrkomi Edition",
+      "Opux Dragoon Yacht",
+      "Opux Luxury Yacht",
+      "Thorax Aliastra Edition",
+      "Thorax Inner Zone Shipping Edition",
+      "Stabber Krusual Edition",
+      "Stabber Nefantar Edition"
+    ],
+    "Alliance Tournament Cruiser": [
+      "Andrestia", 
+      "Chameleon", 
+      "Etana", 
+      "Fiend",  
+      "Mimir", 
+      "Moracha", 
+      "Rabisu", 
+      "Vangel"
+    ],
+    "Battlecruiser": [
+      "Brutix",
+      "Cyclone",
+      "Drake",
+      "Ferox",
+      "Harbinger",
+      "Hurricane",
+      "Myrmidon",
+      "Naga",
+      "Oracle",
+      "Prophecy",
+      "Talos",
+      "Tornado"
+    ],
+    "Faction Battlecruiser": [
+      "Gnosis",
+      "Brutix Navy Issue",
+      "Drake Navy Issue",
+      "Harbinger Navy Issue",
+      "Hurricane Fleet Issue"
+    ],
+    "Precursor Battlecruiser": [
+		"Drekavac"
+	],
+    "Special Eddition Battlecruiser": [
+      "Prophecy Blood Raiders Edition",
+      "Ferox Guristas Edition",
+      "Brutix Serpentis Edition",
+      "Cyclone Thukker Tribe Edition"
+    ],
+    "Command Ships": [
+      "Absolution",
+      "Astarte",
+      "Claymore",
+      "Damnation",
+      "Eos",
+      "Nighthawk",
+      "Sleipnir",
+      "Vulture"
+    ],
+    "Battleship": [
+      "Abbadon", 
+      "Apocalypse", 
+      "Armageddon", 
+      "Dominix", 
+      "Hyperion", 
+      "Maelstrom", 
+      "Megathron", 
+      "Raven", 
+      "Rokh", 
+      "Scorpion", 
+      "Tempest", 
+      "Typhoon"
+    ],
+    "Faction Battleship": [
+      "Praxis",
+      "Apocalypse Navy Issue", 
+      "Armageddon Navy Issue", 
+      "Dominix Navy Issue", 
+      "Megathron Navy Issue", 
+      "Raven Navy Issue", 
+      "Scorpion Navy Issue", 
+      "Tempest Fleet Issue", 
+      "Typhoon Fleet Issue"
+    ],
+    "Pirate Battleship": [
+      "Barghest", 
+      "Machariel", 
+      "Nestor", 
+      "Nightmare",
+      "Rattlesnake",
+      "Vindicator"
+    ],
+    "Precursor Battleship": [
+      "Leshak"
+    ],
+    "Black Ops": [
+      "Panther", 
+      "Redeemer", 
+      "Sin", 
+      "Widow"
+    ],
+    "Faction Black Ops": [
+      "Marshsal"
+    ],
+    "Marauder": [
+      "Golem", 
+      "Kronos", 
+      "Paladin", 
+      "Vargur"
+    ],
+    "Special Edition Battleship": [
+      "Abaddon Kador Edition",
+      "Abaddon Tash-Murkon Edition",
+      "Apocalypse Blood Raider Edition",
+      "Apocalypse Imperial Issue",
+      "Apocalypse Kador Edition",
+      "Apocalypse Tash-Murkon Edition",
+      "Armageddon Imperial Issue",
+      "Rattlesnake Victory Edition",
+      "Raven Guristas Edition",
+      "Raven Kaalakiota Edition",
+      "Raven Nugoeihuvi Edition",
+      "Raven State Issue",
+      "Rokh Nugoeihuvi Edition",
+      "Rokh Wiyrkomi Edition",
+      "Scorpion Ishukone Watch",
+      "Hyperion Aliastra Edition",
+      "Hyperion Inner Zone Shipping Edition",
+      "Megathron Federate Issue",
+      "Megathron Inner Zone Shipping Edition",
+      "Megathron Police Edition",
+      "Megathron Quafe Edition",
+      "Maelstrom Krusual Edition",
+      "Maelstrom Nefantar Edition",
+      "Tempest Justice Edition",
+      "Tempest Krusual Edition",
+      "Tempest Nefantar Edition",
+      "Tempest Tribal Issue"
+    ],
+    "Freighter": [
+      "Charon", 
+      "Fenrir", 
+      "Obelisk", 
+      "Providence"
+    ],
+    "Jump Freighter": [
+      "Anshar", 
+      "Ark", 
+      "Nomad", 
+      "Rhea"
+    ],
+    "Carrier": [
+      "Archon", 
+      "Chimera", 
+      "Nidhoggur", 
+      "Thanatos"
+    ],
+    "Faction Carrier": [
+      "Vanguard"
+    ],
+    "Dreadnought": [
+      "Moros", 
+      "Naglfar", 
+      "Phoenix", 
+      "Revelation"
+    ],
+    "Faction Dreadnought": [
+      "Vehement",
+      "Chemosh",
+      "Caiman"
+    ],
+    "Force Auxilliary": [
+      "Apostle", 
+      "Lif", 
+      "Minokawa", 
+      "Ninazu"
+    ],
+    "Faction Force Auxilliary": [
+      "Dagon",
+      "Loggerhead"
+    ],
+    "Super Carrier": [
+      "Aeon", 
+      "Hel", 
+      "Nyx", 
+      "Wyvern"
+    ],
+    "Faction Super Carrier": [
+      "Revenant",
+      "Vendetta"
+    ],
+    "Titan": [
+      "Avatar", 
+      "Erebus", 
+      "Leviathan", 
+      "Ragnarok"
+    ],
+    "Faction Titan": [
+      "Vanquisher",
+      "Molok",
+      "Komodo"
+    ],
+    "CCP Ships": [
+      "Cockroach",
+      "Immovable Enigma",
+      "POlaris Frigate"
+    ],
+    "Blood Raiders Sotiyo NPC": [
+      "♦ Executioner",
+      "♦ Augoror",
+      "♦ Omen",
+      "♦ Arbitrator",
+      "♦ Ashimmu",
+      "♦ Apocalypse",
+      "♦ Bhaalgorn"      
+    ]
+  },
+  "Deployables": {
+    "Probes": [
+      "Core Scanner Probe I",
+      "Sisters Core Scanner Probe",
+      "RSS Core Scanner Probe",
+      "Combat Scanner Probe I",
+      "Sisters Combat Scanner Probe",
+      "RSS Combat Scanner Probe",
+      "Warp Disrupt Probe"
+    ],    
+    "Anchorables": [
+      "Mobile Depot",
+      "Mobile Tractor Unit",
+      "Mobile Scan Inhibitor"
+    ],
+    "Citadels": [
+      "Astrahus",
+      "Fortizar",
+      "Keepstar",
+      "Upwell Palatine Keepstar"
+    ],
+    "Mobile Warp Disruptors": [
+      "Mobile Small Warp Disruptor I",
+      "Mobile Small Warp Disruptor II",
+      "Mobile Medium Warp Disruptor I",
+      "Mobile Medium Warp Disruptor II",
+      "Mobile Large Warp Disruptor I",
+      "Mobile Large Warp Disruptor II"
+    ]
+  }
+}
