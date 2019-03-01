@@ -65,8 +65,8 @@
     // =======================================================
     // FOR SERVER USE
     // CHANGE THIS TO WHEREVER YOUR SHIT IS STORED
-    // $json     = file_get_contents("http://dscan.phynix.systems/data/dscan-data.json");
-    // $jsonCats = file_get_contents("http://dscan.phynix.systems/data/dscan-categories.json");
+    // $json     = file_get_contents("http://");
+    // $jsonCats = file_get_contents("http://");
     //
     // FOR LOCAL USE
     $json = file_get_contents(__DIR__ . "/data/dscan-data.json");
