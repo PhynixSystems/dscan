@@ -49,8 +49,7 @@
 		4) Press: CTRL + C
 		5) Click inside this field
 		6) Press: CTRL + V
-		7) Click 'Submit'" required autofocus>
-	</textarea>
+		7) Click 'Submit'" required autofocus></textarea>
 	<br/>
 	<button type = "submit" name = "parseInput" class = "btn btn-primary content-submit-button">Submit</button>
 </form>
